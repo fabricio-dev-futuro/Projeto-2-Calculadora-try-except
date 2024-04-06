@@ -22,3 +22,10 @@
  • Ainda dentro do try, mas no condicional else, ocorre a lógica que faz os calculos.
 
  •  O except fica preparado com um erro específico, que acionado caso o usuário tenha digitado algo que não seja número nas escolhas dos números para o cálculo.
+
+#
+Recursos usados no código:
+
+- Função input() para coleta de dados digitado pelo usuário
+- Try / exceptpara checagem e tratamento de erros;
+- Condicionais is / elif / else.
